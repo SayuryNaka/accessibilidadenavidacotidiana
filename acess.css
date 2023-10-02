@@ -1,0 +1,42 @@
+* {
+    font-family: Calibri;
+}
+
+.cab {
+    text-align: center;
+    font-size: 25px;
+    word-break: break-all;
+    background-image: url("Imagem1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+body {
+    background-color: lightseagreen;
+    
+}
+
+.backg {
+    background-color: white;
+    color: black;
+    margin: 50px;
+    padding: 50px;
+}
+
+.sumr {
+    background-color: ivory;
+    color: black;
+    border: 2px solid lightseagreen;
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.texto {
+    background-color: ivory;
+    color: black;
+    border: 2px solid lightseagreen;
+    margin: 20px;
+    padding: 20px;
+}
+
